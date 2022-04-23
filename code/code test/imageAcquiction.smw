@@ -1,0 +1,27 @@
+<!DOCTYPE System-Monitor-Workspace>
+<System-Monitor-Workspace path="C:/Users/ADMIN/Desktop/test/imageAcquiction.smw" >
+ <state w="700" x="2612" y="162" h="658" max="false" >AAAA/wAAAAD9AAAAAgAAAAEAAAFnAAACPPwCAAAAAvsAAAAcAEEAdQB0AG8AIABWAGkAZQB3AF8ARABvAGMAawEAAAA8AAACPAAAACYA////+wAAAGIAaQBtAGEAZwBlAF8ARABvAGMAawBfAHsAMwBmAGQAZQBkADcAYgAyAC0AMgBmADcAMwAtADQAMgA4ADEALQA4AGYAZABlAC0AMQBjAGQAYwA5ADcAMgAyADEAZgBlADkAfQMAAAQcAAAA4gAAAvgAAAH0AAAAA////////////AEAAAAB+wAAACwAQQBsAGEAcgBtAHMAIABhAG4AZAAgAEUAdgBlAG4AdABzAF8ARABvAGMAawAAAAAA/////wAAAv0A////AAABTwAAAjwAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAf////8BAAAAAP////8AAAAAAAAAAA==</state>
+ <Tree>
+  <system>localhost</system>
+ </Tree>
+ <System-Event-Window>
+  <Alarms-Window>
+   <column width="322" shown="1" index="0" />
+   <column width="0" shown="0" index="1" />
+   <column width="0" shown="0" index="2" />
+   <column width="186" shown="1" index="3" />
+   <column width="0" shown="0" index="4" />
+   <column width="0" shown="0" index="5" />
+   <column width="0" shown="0" index="6" />
+   <column width="0" shown="0" index="7" />
+   <column width="0" shown="0" index="8" />
+   <column width="0" shown="0" index="9" />
+   <column width="0" shown="0" index="10" />
+   <column width="0" shown="0" index="11" />
+   <column width="258" shown="1" index="12" />
+   <column width="0" shown="0" index="13" />
+   <column width="0" shown="0" index="14" />
+   <filter flags="0" desc="" setuser="" showalarm="1" showevent="1" url="" min="0" comment="" max="0" area="" ackuser="" />
+  </Alarms-Window>
+ </System-Event-Window>
+</System-Monitor-Workspace>
